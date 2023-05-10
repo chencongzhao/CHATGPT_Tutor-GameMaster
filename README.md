@@ -27,6 +27,7 @@ You are weclome to adjust the game setting as well as codes.
 
 # Screenshot Examples
 ![image](images/1.png)
+![image](images/10.png)
 ![image](images/2.png)
 ![image](images/3.png)
 ![image](images/4.png)
@@ -35,7 +36,6 @@ You are weclome to adjust the game setting as well as codes.
 ![image](images/7.png)
 ![image](images/8.png)
 ![image](images/9.png)
-![image](images/10.png)
 
 # 一起进步
 ![image](images/11.jpg)
