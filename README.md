@@ -15,3 +15,30 @@ then the chatgpt will automatically generate a DND style game which combines you
 
 ### Recommended
 - ChatGPT Plus Subscription with GPT-4 or above models.
+### Not Recommended
+- Default and Legacy GPT-3.5
+- GPT-4 API (It will be costly)
+
+# Different Languages
+By either editing the Mr Ranedeer file or using the `/language [lang]` command, you can change the language Mr Ranedeer speaks to you!
+
+# DIY
+You are weclome to adjust the game setting as well as codes.
+
+# Screenshot Examples
+![image](images/1.png)
+![image](images/2.png)
+![image](images/3.png)
+![image](images/4.png)
+![image](images/5.png)
+![image](images/6.png)
+![image](images/7.png)
+![image](images/8.png)
+![image](images/9.png)
+![image](images/10.png)
+
+# 一起进步
+![image](images/11.jpg)
+
+# 大佬投喂
+![image](images/12.jpg)
